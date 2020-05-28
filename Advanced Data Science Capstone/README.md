@@ -8,7 +8,7 @@ This repository is the final project implementation for the IBM Advanced Data sc
 
 This work implements a sentiment analysis for financial news to classify headlines of financial news from the perspective of a retail investor. This will contribute to making the right choice on brokerage. The dataset is found on Kaggle 
 
-The project can be divided into three parts. 
+The project can be divided into five parts. 
 1. Data investigation 
 2. Feature engineering
 3. Model training 
@@ -22,7 +22,7 @@ Below the organization of the files are explained
 
 
 # Files
-- **Capstone_project.ipynb** - Contains the documentation of the whole data science project, from data investigation to model evaluation.
+- **ADS_Capstone_Project.ipynb** - Contains the documentation of the whole data science project, from data investigation to model evaluation.
 
 - **Data_Science_ADD.pdf** - Contains the documentation of the technology used for various parts of the project and the reason using this technology.
 
