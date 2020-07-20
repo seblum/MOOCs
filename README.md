@@ -14,11 +14,11 @@ Evaluate a breakout signal with statistical tests. Identify effect of outliers o
 
 Create portfolios utilizing smart beta methodology and optimization. Evaluate the performance of the portfolios by calculating tracking errors. Calculate the turnover of portfolio and find the best timing to rebalance. Come up with the portfolio weights by analyzing fundamental data, and by quadratic programming.
 
-### Project 4: Multi-Factor Model
+### Project 4: Alpha Research and Factor Modeling
 
 Generate multiple alpha factors. Evaluate the performance of alpha factors and formulate an advanced portfolio optimization by working with constraints such as risk models, leverage, market neutrality and limits on factor exposures
 
-### Project 5: Sentiment Analysis with NLP on Financial Statements
+### Project 5: NLP on Financial Statements
 
 Apply Natural Language Processing on corporate filings, such as 10Q and 10K statements, from cleaning data and text processing, to feature extraction and modeling. Utilize bag-of-words and TF-IDF to generate company-specific sentiments. Based on the sentiments, decide which company to invest in, and the optimal time to buy or sell.
 
@@ -30,13 +30,13 @@ Build deep neural networks to process news data. Use different ways of embedding
 
 Combine signals on a random forest for enhanced alpha. Solve the problem of overlapping samples.
    
-### Project 8: BackTesting
+### Project 8: Backtesting
 
 Build a realistic backtester that uses the Barra data. The backtester will perform portfolio optimization that includes transaction costs to allow for a reasonably fast backtest. Use performance attribution to identify the major drivers of your portfolio's profit-and-loss (PnL). 
 
 ## Files
 
-- Project-1_Trading_with_Momentum_Workspace.ipynb
+- Project-1_Trading_with_Momentum.ipynb
 - Project-2_Breakout_Strategy.ipynb
 - Project-3_Smart_Beta_and_Portfolio_Optimization.ipynb
 - Project-4_Alpha_Research_and_Factor_Modeling.ipynb
